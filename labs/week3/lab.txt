@@ -1,0 +1,16 @@
+# Results
+
+# Test1:
+
+with N_HASHES = 3, 70 first integer present
+==> number of bits set 187 / 1000
+
+# Test2:
+
+N_HASHES, occupancy, false positive
+
+1, 95, 6
+2, 181, 2
+3, 263, 0
+4, 334, 0
+5, 394, 0
